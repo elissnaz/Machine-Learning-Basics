@@ -1,19 +1,14 @@
 # Machine Learning Basics
 
-This repository contains my foundational studies in Machine Learning using Python.
+This repository contains my Machine Learning studies using Python.  
+It includes data preprocessing techniques and fundamental machine learning algorithms.
 
-## Topics Covered
-- Data Preprocessing
-- Encoding Categorical Data
-- Train-Test Split
-- Feature Scaling
-- Multiple Linear Regression
-- Backward Elimination (OLS)
+The project is structured progressively and will be expanded as I continue learning and implementing new models.
 
-## Tools & Libraries
+## Technologies Used
+
+- Python
 - NumPy
 - Pandas
 - Scikit-learn
 - Statsmodels
-
-This repository will be updated progressively as I improve my ML skills.
